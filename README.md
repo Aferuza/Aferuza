@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **feruza.ahoja@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/feruza-askar/](https://www.linkedin.com/in/feruza-askar/)
+- 📄 Know about my experiences: feruza-askar/](https://www.linkedin.com/in/feruza-askar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
