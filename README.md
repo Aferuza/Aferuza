@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud SaaS**
 
-- 🤝 I’m looking for help with **QA**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Aferuza?tab=repositories](https://github.com/Aferuza?tab=repositories)
 
 - 💬 Ask me about **js, node.js, selenium**
