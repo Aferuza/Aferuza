@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [containAI](https://73.222.84.110)
 
-- 🌱 I’m currently learning **Javascript, Typescript, Selenium Webdriver, Playwright**
+- 🌱 I’m currently working with **Javascript, Typescript, Selenium Webdriver, Playwright**
 
 - 👯 I’m looking to collaborate on **Cloud SaaS**
 
