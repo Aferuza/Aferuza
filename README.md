@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aferuza?tab=repositories](https://github.com/Aferuza?tab=repositories)
 
-- 💬 Ask me about **js, node.js, selenium**
+- 💬 Ask me about **python, js, node.js, selenium**
 
 - 📫 How to reach me **feruza.ahoja@gmail.com**
 
