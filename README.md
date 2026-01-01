@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [containAI](https://73.222.84.110)
 
-- 🌱 I’m currently working with **Python, Selenium, NodeJS and Javascript**
+- 🌱 I’m currently working with **Python, requests, Selenium Webdriver, Javascript**
 
-- 👯 I’m looking to collaborate on **Cloud SaaS**
+- 👯 I’m looking to collaborate on **Platform Infra, Devops, Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aferuza?tab=repositories](https://github.com/Aferuza?tab=repositories)
 
