@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aferuza" alt="aferuza" /></a> </p>
 
-- 🔭 I’m currently working on [containAI](https://73.222.84.110)
+- 🔭 I’m currently working on [API-automation-framework-with-Python](https://github.com/Aferuza/API-automation-framework-with-Python)
 
-- 🌱 I’m currently working with **Python, requests, Selenium Webdriver, Javascript**
+- 🌱 I’m currently working with **Python, pytest,requests, yml **
 
-- 👯 I’m looking to collaborate on **Platform Infra, Devops, Cloud**
+- 👯 I’m looking to collaborate on **Backend Platform Infra, Devops, Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aferuza?tab=repositories](https://github.com/Aferuza?tab=repositories)
 
-- 💬 Ask me about **python, js, node.js, selenium**
+- 💬 Ask me about **python,api, node.js, playwright, linux**
 
 - 📫 How to reach me **feruza.ahoja@gmail.com**
 
