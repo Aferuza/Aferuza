@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Feruza</h1>
-<h3 align="center">A passionate QA Test Engineer</h3>
+<h3 align="center">A QA Test Engineer who Builds Test Automation Frameworks with Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aferuza&label=Profile%20views&color=0e75b6&style=flat" alt="aferuza" /> </p>
 
